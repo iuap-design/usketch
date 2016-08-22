@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/iuap-design/usketch/issues"
   },
-  "homepage": "https://github.com/iuap-design/usketch#readme"
+  "homepage": "https://github.com/iuap-design/usketch#readme",
+  "dependencies": {
+    "kero-adapter": "^1.5.2",
+    "neoui": "^4.1.1"
+  }
 }
